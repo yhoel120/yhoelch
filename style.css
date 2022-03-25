@@ -1,0 +1,131 @@
+body {
+  padding: 2px;
+color:0;
+text-align: center;
+background:#e23;
+margin: 0%;
+
+  
+}
+
+
+h1
+{
+   
+    color:blue;
+    font-size: 370%;
+    text-align:start;
+    background-color:;
+color: #e23;
+    text-shadow: -3px 3px #ffffff, -3px -3px #ffffff, 3px -3px #ffffff, 3px 3px #f3f3f2, 6px 6px #6ac7c2;
+}
+  
+    
+}
+button
+{
+background-color: rgb(8, 8, 8);
+padding-top:20%;
+padding-left:20% ;
+padding-right: 20%;
+padding-bottom: 29%;
+background:#7c7878;
+color: white;
+left:35%;
+width: 90%;
+text-align: center;
+}
+img{
+  width:90%;
+  height:90%;
+}
+
+#icon
+{
+  width: 10%;
+  height: 10%;
+  color:white;
+
+}
+
+/* menu desplegable */
+
+#menu ul ul {
+  display:none;
+  position:absolute;
+  top:100%;
+  left:0;
+  background:#eee;
+ }
+ 
+ /* items del menu desplegable */
+ 
+ #menu ul ul li {
+  float:none;
+  width:140%;
+ }
+ 
+ /* enlaces de los items del menu desplegable */
+ 
+ #menu ul ul a {
+  line-height:120%;
+  padding:30px 15px;
+ }
+ 
+ /* items del menu desplegable al pasar el ratón */
+ 
+ #menu ul li:hover > ul {
+  display:block;
+ }
+ /* menu */
+
+#menu ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  right: 0;
+  top: 0;
+ }
+ 
+ /* items del menu */
+ 
+ #menu ul li {
+  background-color:#2e518b;
+ }
+ 
+ /* enlaces del menu */
+ 
+ #menu ul a {
+  display:block;
+  color:#fff;
+  text-decoration:none;
+  font-weight:300;
+  font-size:100%;
+  padding:10px;
+  font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform:uppercase;
+  letter-spacing:1px;
+ }
+ 
+ /* items del menu */
+ 
+ #menu ul li {
+  position:relative;
+  float:left;
+  margin:0;
+  padding:0;
+ }
+ 
+ /* efecto al pasar el ratón por los items del menu */
+ 
+ #menu ul li:hover {
+  background:#5b78a7;
+ }
+ #uni ul ul {
+  display:none;
+  position:absolute;
+  top:100%;
+  left:0;
+  background:#eee;
+  padding:0;
+ }
