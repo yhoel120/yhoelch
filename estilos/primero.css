@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+}
+h1
+{
+background-color :red;
+text-align: center;
+padding-right:80%;
+font-size:330% ;
+border-radius: 1rem;
+}

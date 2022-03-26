@@ -1,0 +1,25 @@
+*{}
+
+body
+{
+    background-color:transparent;
+background-image:url("https://1.bp.blogspot.com/-Sg8f4q83vh4/XkWStkKHQ5I/AAAAAAAAYLs/3P8PbdrFSG43fAEQtzs5WN54sxF90EeTACLcBGAsYHQ/s1600/fondos%2Bde%2Bamor%2Bde%2Bpantalla%2Bpara%2Bcelulares.jpg");
+background-size: 100%;
+background-clip: 100%;
+
+
+}
+a
+{
+color:aliceblue;
+}
+button
+{
+text-align: center;
+font-size: rem;
+color:red;
+background-color: blue;
+border-bottom: 1rem;
+border-radius: 1rem;
+
+}
