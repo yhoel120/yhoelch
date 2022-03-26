@@ -131,6 +131,5 @@ img{
  }
  .enlases
  {
-   padding-bottom: 10%;
-   grid-template-columns: repeat(6,1fr);
+   padding:10%;
  }
