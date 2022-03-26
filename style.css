@@ -132,4 +132,6 @@ img{
  .enlases
  {
    padding:10%;
+   max-width: 1080px;
+   min-width: 720px;
  }
